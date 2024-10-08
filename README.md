@@ -1,3 +1,8 @@
+data posts
+![image](https://github.com/user-attachments/assets/c20f46c9-8140-4d98-8d49-373f621fe240)
+test.php
+![image](https://github.com/user-attachments/assets/a6f8ef37-374e-4925-940a-96caee0e4fd8)
+tugas praktikum
 1. Konsumsi Data dengan GET Request
    - Tampilkan 5 data pertama dalam bentuk array PHP.
      ![image](https://github.com/user-attachments/assets/a6200069-5224-4be1-98e6-2503cf502883)
